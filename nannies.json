@@ -1,0 +1,1708 @@
+{
+    "generated_at": "2026-06-12 10:39:42",
+    "timezone": "Africa/Nairobi",
+    "count": 64,
+    "nannies": [
+        {
+            "id": 124,
+            "firstName": "Lauryn",
+            "area": "Kianjogu",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [
+                "Fire Safety & Emergency Evacuation Training"
+            ],
+            "experienceYears": 5,
+            "englishLevel": "fluent",
+            "childcare": true,
+            "eldercare": true,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 125,
+            "firstName": "Emmaculate",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare"
+            ],
+            "nannyType": [
+                "Live-in Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 3,
+            "englishLevel": "basic",
+            "childcare": true,
+            "eldercare": false,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 71,
+            "firstName": "Amolo",
+            "area": "muthwani",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Infant Care"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 8,
+            "englishLevel": "",
+            "childcare": true,
+            "eldercare": false,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 123,
+            "firstName": "Sarah",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare"
+            ],
+            "nannyType": [
+                "Day Nanny",
+                "Live-in Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 5,
+            "englishLevel": "fluent",
+            "childcare": true,
+            "eldercare": true,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 122,
+            "firstName": "Ireen",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Infant Care"
+            ],
+            "nannyType": [
+                "Day Nanny",
+                "Live-in Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 3,
+            "englishLevel": "basic",
+            "childcare": true,
+            "eldercare": false,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 121,
+            "firstName": "hannah",
+            "area": "Gatunga",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Infant Care",
+                "Elder Care"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 1,
+            "englishLevel": "basic",
+            "childcare": true,
+            "eldercare": true,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 118,
+            "firstName": "sara",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Elder Care"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 2,
+            "englishLevel": "basic",
+            "childcare": true,
+            "eldercare": true,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 117,
+            "firstName": "oliver",
+            "area": "Nairobi",
+            "services": [
+                "Elder Care",
+                "Cooking",
+                "Pet Care"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 1,
+            "englishLevel": "basic",
+            "childcare": true,
+            "eldercare": true,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 116,
+            "firstName": "Prudence",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 10,
+            "englishLevel": "fluent",
+            "childcare": true,
+            "eldercare": false,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 115,
+            "firstName": "Grace",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Elder Care",
+                "Infant Care"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 1,
+            "englishLevel": "intermediate",
+            "childcare": true,
+            "eldercare": true,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 114,
+            "firstName": "Jane",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Elder Care"
+            ],
+            "nannyType": [
+                "Live-in Nanny",
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 6,
+            "englishLevel": "basic",
+            "childcare": true,
+            "eldercare": true,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 113,
+            "firstName": "charity",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Infant Care",
+                "Elder Care"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 2,
+            "englishLevel": "",
+            "childcare": true,
+            "eldercare": true,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 111,
+            "firstName": "Cynthia",
+            "area": "Ongata Rongai",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [
+                "Infant & Child CPR Certification"
+            ],
+            "experienceYears": 5,
+            "englishLevel": "basic",
+            "childcare": true,
+            "eldercare": false,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 110,
+            "firstName": "Lomedi",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Infant Care"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 10,
+            "englishLevel": "basic",
+            "childcare": true,
+            "eldercare": false,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 109,
+            "firstName": "Mumbi",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Infant Care"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [
+                "Choking Rescue Techniques",
+                "Water Safety / Swim Supervision Training",
+                "Fire Safety & Emergency Evacuation Training"
+            ],
+            "experienceYears": 4,
+            "englishLevel": "intermediate",
+            "childcare": true,
+            "eldercare": false,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": 5
+        },
+        {
+            "id": 108,
+            "firstName": "Bella",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 5,
+            "englishLevel": "",
+            "childcare": true,
+            "eldercare": false,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 102,
+            "firstName": "Sylvia",
+            "area": "Nairobi",
+            "services": [
+                "Childcare",
+                "Cooking",
+                "House Keeping"
+            ],
+            "nannyType": [
+                "Day Nanny",
+                "Live-in Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 5,
+            "englishLevel": "basic",
+            "childcare": true,
+            "eldercare": false,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 107,
+            "firstName": "rose",
+            "area": "Wangige",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 10,
+            "englishLevel": "",
+            "childcare": true,
+            "eldercare": true,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 97,
+            "firstName": "Elosy",
+            "area": "Nairobi",
+            "services": [
+                "Cooking",
+                "Childcare",
+                "House Keeping"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 6,
+            "englishLevel": "basic",
+            "childcare": true,
+            "eldercare": false,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": 5
+        },
+        {
+            "id": 95,
+            "firstName": "Ruth",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 5,
+            "englishLevel": "basic",
+            "childcare": true,
+            "eldercare": false,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 98,
+            "firstName": "Millicent",
+            "area": "Mugutha",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Infant Care",
+                "Elder Care"
+            ],
+            "nannyType": [
+                "Day Nanny",
+                "Live-in Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 5,
+            "englishLevel": "basic",
+            "childcare": true,
+            "eldercare": false,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 94,
+            "firstName": "Ruth",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 5,
+            "englishLevel": "basic",
+            "childcare": true,
+            "eldercare": false,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 92,
+            "firstName": "laureen",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 8,
+            "englishLevel": "fluent",
+            "childcare": true,
+            "eldercare": false,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 90,
+            "firstName": "Phyllis",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 0,
+            "englishLevel": "basic",
+            "childcare": true,
+            "eldercare": true,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": 4.8
+        },
+        {
+            "id": 89,
+            "firstName": "Mary",
+            "area": "Nairobi City",
+            "services": [
+                "Childcare",
+                "Infant Care"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 0,
+            "englishLevel": "",
+            "childcare": true,
+            "eldercare": false,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 87,
+            "firstName": "Irene",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Infant Care",
+                "Elder Care"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 10,
+            "englishLevel": "",
+            "childcare": true,
+            "eldercare": true,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 85,
+            "firstName": "Nicole",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Infant Care",
+                "Elder Care"
+            ],
+            "nannyType": [
+                "Day Nanny",
+                "Live-in Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 10,
+            "englishLevel": "",
+            "childcare": true,
+            "eldercare": true,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 84,
+            "firstName": "Graciella",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Infant Care"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 1,
+            "englishLevel": "basic",
+            "childcare": true,
+            "eldercare": false,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 83,
+            "firstName": "RITA",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Infant Care"
+            ],
+            "nannyType": [
+                "Day Nanny",
+                "Live-in Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 5,
+            "englishLevel": "fluent",
+            "childcare": true,
+            "eldercare": true,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 82,
+            "firstName": "Faith",
+            "area": "Juja",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Infant Care"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 5,
+            "englishLevel": "intermediate",
+            "childcare": true,
+            "eldercare": false,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 81,
+            "firstName": "lindiwe",
+            "area": "Rungiri",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare"
+            ],
+            "nannyType": [
+                "Day Nanny",
+                "Live-in Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 5,
+            "englishLevel": "fluent",
+            "childcare": true,
+            "eldercare": false,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 77,
+            "firstName": "Claudia",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 1,
+            "englishLevel": "basic",
+            "childcare": true,
+            "eldercare": false,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 79,
+            "firstName": "Annah",
+            "area": "Ruiru",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Elder Care",
+                "Pet Care",
+                "Infant Care"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 0,
+            "englishLevel": "fluent",
+            "childcare": true,
+            "eldercare": true,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 76,
+            "firstName": "Esther",
+            "area": "Kabete",
+            "services": [
+                "House Keeping",
+                "Childcare",
+                "Infant Care"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 5,
+            "englishLevel": "fluent",
+            "childcare": true,
+            "eldercare": false,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 75,
+            "firstName": "Rebecca",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Infant Care"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 8,
+            "englishLevel": "basic",
+            "childcare": true,
+            "eldercare": false,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 74,
+            "firstName": "Caroline",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Infant Care",
+                "Elder Care"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 5,
+            "englishLevel": "basic",
+            "childcare": true,
+            "eldercare": true,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 72,
+            "firstName": "Faith",
+            "area": "Ongata Rongai",
+            "services": [
+                "House Keeping",
+                "Childcare",
+                "Infant Care"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [
+                "First Aid Certification"
+            ],
+            "experienceYears": 1,
+            "englishLevel": "basic",
+            "childcare": true,
+            "eldercare": false,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 68,
+            "firstName": "crystal",
+            "area": "Rungiri",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [
+                "Special Needs Childcare"
+            ],
+            "experienceYears": 4,
+            "englishLevel": "fluent",
+            "childcare": true,
+            "eldercare": true,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 67,
+            "firstName": "Victorine",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Infant Care"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 3,
+            "englishLevel": "basic",
+            "childcare": true,
+            "eldercare": false,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 66,
+            "firstName": "Cynthia",
+            "area": "Ruiru",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Infant Care",
+                "Elder Care"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 4,
+            "englishLevel": "",
+            "childcare": true,
+            "eldercare": true,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 63,
+            "firstName": "Alice",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Elder Care"
+            ],
+            "nannyType": [
+                "Day Nanny",
+                "Live-in Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 7,
+            "englishLevel": "basic",
+            "childcare": true,
+            "eldercare": true,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": 5
+        },
+        {
+            "id": 60,
+            "firstName": "sonni",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Elder Care",
+                "Infant Care"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 3,
+            "englishLevel": "fluent",
+            "childcare": true,
+            "eldercare": true,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 57,
+            "firstName": "Rabecca",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Elder Care",
+                "Infant Care"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 2,
+            "englishLevel": "fluent",
+            "childcare": true,
+            "eldercare": true,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 52,
+            "firstName": "Janet",
+            "area": "Kiambu",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Infant Care",
+                "Elder Care"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [
+                "Infant & Child CPR Certification"
+            ],
+            "experienceYears": 3,
+            "englishLevel": "fluent",
+            "childcare": true,
+            "eldercare": false,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 49,
+            "firstName": "Nicole",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Infant Care",
+                "Pet Care"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 3,
+            "englishLevel": "fluent",
+            "childcare": true,
+            "eldercare": false,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 47,
+            "firstName": "Furaha",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Childcare",
+                "Infant Care"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 2,
+            "englishLevel": "fluent",
+            "childcare": true,
+            "eldercare": false,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": 5
+        },
+        {
+            "id": 46,
+            "firstName": "hildah",
+            "area": "Nairobi",
+            "services": [
+                "Childcare",
+                "Infant Care",
+                "Elder Care"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 5,
+            "englishLevel": "basic",
+            "childcare": true,
+            "eldercare": true,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": 5
+        },
+        {
+            "id": 44,
+            "firstName": "mary",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Infant Care",
+                "Elder Care"
+            ],
+            "nannyType": [
+                "Day Nanny",
+                "Live-in Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 3,
+            "englishLevel": "fluent",
+            "childcare": true,
+            "eldercare": true,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 42,
+            "firstName": "priscillah",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Infant Care",
+                "Elder Care"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 3,
+            "englishLevel": "fluent",
+            "childcare": true,
+            "eldercare": true,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": 4.7
+        },
+        {
+            "id": 41,
+            "firstName": "Catherine",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Elder Care"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 0,
+            "englishLevel": "basic",
+            "childcare": true,
+            "eldercare": true,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 40,
+            "firstName": "salome",
+            "area": "Thika",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Pet Care"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 2,
+            "englishLevel": "fluent",
+            "childcare": true,
+            "eldercare": false,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 39,
+            "firstName": "Betty",
+            "area": "Eldoret",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Pet Care"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 6,
+            "englishLevel": "fluent",
+            "childcare": true,
+            "eldercare": false,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 38,
+            "firstName": "Annette",
+            "area": "Mombasa",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [
+                "First Aid Certification",
+                "Choking Rescue Techniques"
+            ],
+            "experienceYears": 2,
+            "englishLevel": "fluent",
+            "childcare": true,
+            "eldercare": true,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 36,
+            "firstName": "Beth",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Elder Care"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [
+                "First Aid Certification",
+                "Special Needs Childcare",
+                "Choking Rescue Techniques",
+                "Fire Safety & Emergency Evacuation Training",
+                "Basic Life Support (BLS) Training"
+            ],
+            "experienceYears": 6,
+            "englishLevel": "",
+            "childcare": true,
+            "eldercare": true,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": 5
+        },
+        {
+            "id": 34,
+            "firstName": "cathy",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 3,
+            "englishLevel": "basic",
+            "childcare": true,
+            "eldercare": false,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": 5
+        },
+        {
+            "id": 31,
+            "firstName": "Sheila",
+            "area": "Nairobi",
+            "services": [
+                "Childcare",
+                "Infant Care",
+                "Elder Care"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [
+                "Special Needs Childcare"
+            ],
+            "experienceYears": 6,
+            "englishLevel": "basic",
+            "childcare": true,
+            "eldercare": true,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 30,
+            "firstName": "Tabitha",
+            "area": "Nairobi",
+            "services": [
+                "Childcare",
+                "Infant Care"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 1,
+            "englishLevel": "basic",
+            "childcare": true,
+            "eldercare": false,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 29,
+            "firstName": "Esther",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Pet Care",
+                "Elder Care"
+            ],
+            "nannyType": [
+                "Day Nanny",
+                "Live-in Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 2,
+            "englishLevel": "fluent",
+            "childcare": true,
+            "eldercare": true,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": 4.1
+        },
+        {
+            "id": 28,
+            "firstName": "Jenniffer",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Elder Care"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 10,
+            "englishLevel": "basic",
+            "childcare": true,
+            "eldercare": true,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 27,
+            "firstName": "farnice",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Infant Care"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 6,
+            "englishLevel": "basic",
+            "childcare": true,
+            "eldercare": false,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": 5
+        },
+        {
+            "id": 26,
+            "firstName": "Lydiah",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [
+                "Infant & Child CPR Certification"
+            ],
+            "experienceYears": 2,
+            "englishLevel": "fluent",
+            "childcare": true,
+            "eldercare": false,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": 3.7
+        },
+        {
+            "id": 22,
+            "firstName": "Lucy",
+            "area": "Mombasa",
+            "services": [
+                "Infant Care",
+                "Childcare",
+                "House Keeping",
+                "Elder Care",
+                "Pet Care",
+                "Cooking"
+            ],
+            "nannyType": [
+                "Day Nanny",
+                "Live-in Nanny"
+            ],
+            "specialSkills": [
+                "Basic Life Support (BLS) Training",
+                "Fire Safety & Emergency Evacuation Training",
+                "Choking Rescue Techniques",
+                "Special Needs Childcare"
+            ],
+            "experienceYears": 4,
+            "englishLevel": "",
+            "childcare": true,
+            "eldercare": true,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": 5
+        },
+        {
+            "id": 21,
+            "firstName": "Beatrice",
+            "area": "Nairobi",
+            "services": [
+                "Childcare",
+                "House Keeping",
+                "Elder Care",
+                "Cooking"
+            ],
+            "nannyType": [
+                "Day Nanny",
+                "Live-in Nanny"
+            ],
+            "specialSkills": [
+                "Special Needs Childcare"
+            ],
+            "experienceYears": 3,
+            "englishLevel": "basic",
+            "childcare": true,
+            "eldercare": false,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": 4
+        },
+        {
+            "id": 20,
+            "firstName": "Ivonne",
+            "area": "Nairobi",
+            "services": [
+                "Childcare",
+                "House Keeping",
+                "Cooking"
+            ],
+            "nannyType": [
+                "Day Nanny",
+                "Live-in Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 3,
+            "englishLevel": "basic",
+            "childcare": true,
+            "eldercare": false,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        }
+    ]
+}

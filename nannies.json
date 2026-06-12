@@ -1,11 +1,12 @@
 {
-    "generated_at": "2026-06-12 10:39:42",
+    "generated_at": "2026-06-12 11:54:51",
     "timezone": "Africa/Nairobi",
     "count": 64,
     "nannies": [
         {
             "id": 124,
             "firstName": "Lauryn",
+            "about": "I am a mother of two beautiful kids, a boy and a girl.",
             "area": "Kianjogu",
             "services": [
                 "House Keeping",
@@ -33,6 +34,7 @@
         {
             "id": 125,
             "firstName": "Emmaculate",
+            "about": "am 23 years old and l can be a good nanny",
             "area": "Nairobi",
             "services": [
                 "House Keeping",
@@ -58,6 +60,7 @@
         {
             "id": 71,
             "firstName": "Amolo",
+            "about": "I am a caring and patient nanny with a motherly touch. I love working with children, preparing healthy meals, and supporting families. My hospitality background helps me create a safe, clean, and loving home environment.",
             "area": "muthwani",
             "services": [
                 "House Keeping",
@@ -84,6 +87,7 @@
         {
             "id": 123,
             "firstName": "Sarah",
+            "about": "organized in my work",
             "area": "Nairobi",
             "services": [
                 "House Keeping",
@@ -110,6 +114,7 @@
         {
             "id": 122,
             "firstName": "Ireen",
+            "about": "I love supporting children's growth while giving parents peace of mind.",
             "area": "Nairobi",
             "services": [
                 "House Keeping",
@@ -137,6 +142,7 @@
         {
             "id": 121,
             "firstName": "hannah",
+            "about": "Experience at Dayburg (1 Year) I worked at Dayburg for one year as a casual worker, where I gained hands-on experience in different tasks. My duties included cleaning, organizing workspaces, assisting with loading and offloading materials, and supporting skilled workers on site.",
             "area": "Gatunga",
             "services": [
                 "House Keeping",
@@ -164,6 +170,7 @@
         {
             "id": 118,
             "firstName": "sara",
+            "about": "self reliable and hardworking",
             "area": "Nairobi",
             "services": [
                 "House Keeping",
@@ -190,6 +197,7 @@
         {
             "id": 117,
             "firstName": "oliver",
+            "about": "devoted caregiver since i had achild with hydrocephalus that situation made me learn experience for 2yrs befor she died",
             "area": "Nairobi",
             "services": [
                 "Elder Care",
@@ -215,6 +223,7 @@
         {
             "id": 116,
             "firstName": "Prudence",
+            "about": "I am a 25-year-old, caring and responsible nanny with over 10 years of hands-on childcare experience. As the firstborn in my family, with a significant age gap between me and my siblings(10yr age gap), I have played a key role in raising and caring for them from birth through…",
             "area": "Nairobi",
             "services": [
                 "House Keeping",
@@ -240,6 +249,7 @@
         {
             "id": 115,
             "firstName": "Grace",
+            "about": "I am a caring, responsible, and patient individual who enjoys working with children. I create a safe and supportive environment while helping with daily routines, play, and learning activities. I am reliable, organized, and committed to supporting both the child’s well-being and…",
             "area": "Nairobi",
             "services": [
                 "House Keeping",
@@ -267,6 +277,7 @@
         {
             "id": 114,
             "firstName": "Jane",
+            "about": "I am naturally patient, loving, and responsible with children. Being a mother to a 6-year-old son has given me real experience in childcare, including feeding, bathing, helping with routines, and creating a safe and supportive environment for children.",
             "area": "Nairobi",
             "services": [
                 "House Keeping",
@@ -294,6 +305,7 @@
         {
             "id": 113,
             "firstName": "charity",
+            "about": "I love doing my work with me there are no regrets am the best",
             "area": "Nairobi",
             "services": [
                 "House Keeping",
@@ -321,6 +333,7 @@
         {
             "id": 111,
             "firstName": "Cynthia",
+            "about": "love kids, hardworking and focused",
             "area": "Ongata Rongai",
             "services": [
                 "House Keeping",
@@ -348,6 +361,7 @@
         {
             "id": 110,
             "firstName": "Lomedi",
+            "about": "have worked for years and git experience in cleaning taking care of the children I can say am competitive with how I work",
             "area": "Nairobi",
             "services": [
                 "House Keeping",
@@ -374,6 +388,7 @@
         {
             "id": 109,
             "firstName": "Mumbi",
+            "about": "Proactive and organized Nanny, with a decade of experience supporting busy families. I offer a mix of high-quality childcare, household management, light cleaning, and meal preparation. Expert in managing daily routines, school transport, and scheduling, with a focus on safety…",
             "area": "Nairobi",
             "services": [
                 "House Keeping",
@@ -404,6 +419,7 @@
         {
             "id": 108,
             "firstName": "Bella",
+            "about": "am dedicated to serving whole heartedly and making kids happy and comfortable",
             "area": "Nairobi",
             "services": [
                 "House Keeping",
@@ -429,6 +445,7 @@
         {
             "id": 102,
             "firstName": "Sylvia",
+            "about": "Am sekf motivated,easy going am aslo very friendly...kind enough to work well with everyone, Have worked for years taking care of kids,a must say I really enjoyed,and this really given me experience, with you giving me a chance I believe I can do a great job",
             "area": "Nairobi",
             "services": [
                 "Childcare",
@@ -455,6 +472,7 @@
         {
             "id": 107,
             "firstName": "rose",
+            "about": "am rose wambui I have work more than 10 year I love children because they are innocent",
             "area": "Wangige",
             "services": [
                 "House Keeping",
@@ -480,6 +498,7 @@
         {
             "id": 97,
             "firstName": "Elosy",
+            "about": "iam a mother of one kid and I love kids very much",
             "area": "Nairobi",
             "services": [
                 "Cooking",
@@ -505,6 +524,7 @@
         {
             "id": 95,
             "firstName": "Ruth",
+            "about": "am jovial and hardworking",
             "area": "Nairobi",
             "services": [
                 "House Keeping",
@@ -530,6 +550,7 @@
         {
             "id": 98,
             "firstName": "Millicent",
+            "about": "I am mother of 4, so I'm not new when it comes to kids. I have worked as a nanny for four years and also worked at a care for almost a year. I'm great with kids. I also do house call cooking.",
             "area": "Mugutha",
             "services": [
                 "House Keeping",
@@ -558,6 +579,7 @@
         {
             "id": 94,
             "firstName": "Ruth",
+            "about": "am jovial and hardworking",
             "area": "Nairobi",
             "services": [
                 "House Keeping",
@@ -583,6 +605,7 @@
         {
             "id": 92,
             "firstName": "laureen",
+            "about": "ambitious hardworking working under minimal supervision caring and ready to learn bird",
             "area": "Nairobi",
             "services": [
                 "House Keeping",
@@ -608,6 +631,7 @@
         {
             "id": 90,
             "firstName": "Phyllis",
+            "about": "Hardworking woman Good with children",
             "area": "Nairobi",
             "services": [
                 "House Keeping",
@@ -633,6 +657,7 @@
         {
             "id": 89,
             "firstName": "Mary",
+            "about": "I am a caring, patient, and dependable nanny with experience in child care and supervision. I enjoy working with children, helping with daily routines, playtime, and basic learning activities while ensuring a safe and nurturing environment. I am reliable, respectful, and looking…",
             "area": "Nairobi City",
             "services": [
                 "Childcare",
@@ -657,6 +682,7 @@
         {
             "id": 87,
             "firstName": "Irene",
+            "about": "I'm Irene a very self-driven person, team workers and humble young lady form a humble back ground. my goals and ambition is to be the best version of myself. I respect my work and always ready to help the client with their work.",
             "area": "Nairobi",
             "services": [
                 "House Keeping",
@@ -684,6 +710,7 @@
         {
             "id": 85,
             "firstName": "Nicole",
+            "about": "I'm excited to apply for the nanny position. With 10 years of experience caring for children, I've developed a nurturing approach that kids love. I'm great at engaging activities, meal prep, and keeping little ones safe. I'm reliable, trustworthy, and love making families' lives…",
             "area": "Nairobi",
             "services": [
                 "House Keeping",
@@ -712,6 +739,7 @@
         {
             "id": 84,
             "firstName": "Graciella",
+            "about": "I am a well driven employee who is ready to work I can work with small to big children because I have good balance with work and can report anytime",
             "area": "Nairobi",
             "services": [
                 "House Keeping",
@@ -738,6 +766,7 @@
         {
             "id": 83,
             "firstName": "RITA",
+            "about": "I am a 25-year-old caring, responsible, and patient nanny with work experience in Saudi Arabia under the hospitality sector. Through my experience, I have developed strong skills in child care, hygiene, meal assistance, light housekeeping, and maintaining a safe and calm…",
             "area": "Nairobi",
             "services": [
                 "House Keeping",
@@ -765,6 +794,7 @@
         {
             "id": 82,
             "firstName": "Faith",
+            "about": "I love working and staying with kids",
             "area": "Juja",
             "services": [
                 "House Keeping",
@@ -791,6 +821,7 @@
         {
             "id": 81,
             "firstName": "lindiwe",
+            "about": "Caring and responsible childcare provider with experience in creating a safe, nurturing, and engaging environment for children. Skilled in meal preparation, homework assistance, and organizing age-appropriate activities. Reliable, patient, and committed to supporting children’s…",
             "area": "Rungiri",
             "services": [
                 "House Keeping",
@@ -817,6 +848,7 @@
         {
             "id": 77,
             "firstName": "Claudia",
+            "about": "“I have experience caring for children within my family and community, helping with feeding, playtime, homework, and supervision. Through this experience, I have learned to be patient, responsible, and attentive to children’s needs. I love working with children because I enjoy…",
             "area": "Nairobi",
             "services": [
                 "House Keeping",
@@ -842,6 +874,7 @@
         {
             "id": 79,
             "firstName": "Annah",
+            "about": "A hardworking reliabe and honest lady.",
             "area": "Ruiru",
             "services": [
                 "House Keeping",
@@ -870,6 +903,7 @@
         {
             "id": 76,
             "firstName": "Esther",
+            "about": "i am hardworking,work under no supervision and pay attention to detail.I love watching kids grow and I love the fact that kids have the genuine heart.I have worked with kids for the past 10years that is if I include my kids",
             "area": "Kabete",
             "services": [
                 "House Keeping",
@@ -895,6 +929,7 @@
         {
             "id": 75,
             "firstName": "Rebecca",
+            "about": "i love working with kids",
             "area": "Nairobi",
             "services": [
                 "House Keeping",
@@ -921,6 +956,7 @@
         {
             "id": 74,
             "firstName": "Caroline",
+            "about": "hardworking, respectful, obedient",
             "area": "Nairobi",
             "services": [
                 "House Keeping",
@@ -948,6 +984,7 @@
         {
             "id": 72,
             "firstName": "Faith",
+            "about": "A humble soul from a humble background.In love with kids",
             "area": "Ongata Rongai",
             "services": [
                 "House Keeping",
@@ -975,6 +1012,7 @@
         {
             "id": 68,
             "firstName": "crystal",
+            "about": "my services are topnotch",
             "area": "Rungiri",
             "services": [
                 "House Keeping",
@@ -1002,6 +1040,7 @@
         {
             "id": 67,
             "firstName": "Victorine",
+            "about": "am a single mom of 1 who likes vibing with kids well and have 3 years experience",
             "area": "Nairobi",
             "services": [
                 "House Keeping",
@@ -1028,6 +1067,7 @@
         {
             "id": 66,
             "firstName": "Cynthia",
+            "about": "I am a dedicated caregiver with 4 years of hands-on experience providing compassionate support to both the elderly and children. My work is driven by a genuine passion for helping others feel safe, valued, and well cared for. I take pride in creating warm, nurturing…",
             "area": "Ruiru",
             "services": [
                 "House Keeping",
@@ -1055,6 +1095,7 @@
         {
             "id": 63,
             "firstName": "Alice",
+            "about": "I'm a mom of three and this together with my exposure to several kids in my previous workplace is why I think I'm competent enough for a job as a nanny",
             "area": "Nairobi",
             "services": [
                 "House Keeping",
@@ -1082,6 +1123,7 @@
         {
             "id": 60,
             "firstName": "sonni",
+            "about": "Hello! My name is Sonnia, and I’m a caring and reliable nanny with hands-on experience raising my own child. I understand the patience, attention, and love that children need to feel safe and happy. I’m responsible, organized, and always make sure the kids are well cared for…",
             "area": "Nairobi",
             "services": [
                 "House Keeping",
@@ -1109,6 +1151,7 @@
         {
             "id": 57,
             "firstName": "Rabecca",
+            "about": "I enjoy working around children .professionally,I have worked as a nanny for 2 year and I have 12 years experience of being a mother raising 3 lovely children.My duties were preparation of meals,fixing strict daily routines,playing games and learning new things from them as I…",
             "area": "Nairobi",
             "services": [
                 "House Keeping",
@@ -1136,6 +1179,7 @@
         {
             "id": 52,
             "firstName": "Janet",
+            "about": "About Me My name is Janet. I am a caring and responsible person who truly enjoys looking after children and creating a safe, loving environment for them. My Experience I have hands-on experience raising my own child, who is now 3 years old, as well as helping to raise my…",
             "area": "Kiambu",
             "services": [
                 "House Keeping",
@@ -1165,6 +1209,7 @@
         {
             "id": 49,
             "firstName": "Nicole",
+            "about": "am a hardworking and well driven person. I am very good with children all ages and can be playfull with them. I can work in any house with no supervision",
             "area": "Nairobi",
             "services": [
                 "House Keeping",
@@ -1192,6 +1237,7 @@
         {
             "id": 47,
             "firstName": "Furaha",
+            "about": "I am good with kids... patient, kind, and calm. I also handle house hold duties as well. I have an experience of 2 yrs",
             "area": "Nairobi",
             "services": [
                 "House Keeping",
@@ -1217,6 +1263,7 @@
         {
             "id": 46,
             "firstName": "hildah",
+            "about": "am amother ,hardworking ,I am self driven",
             "area": "Nairobi",
             "services": [
                 "Childcare",
@@ -1242,6 +1289,7 @@
         {
             "id": 44,
             "firstName": "mary",
+            "about": "I am a dependable and hardworking professional with experience in a wide range of caregiving and home support services. I specialize in childcare (including toddlers and nanny day-bug services), elderly care, and personal assistance.",
             "area": "Nairobi",
             "services": [
                 "House Keeping",
@@ -1270,6 +1318,7 @@
         {
             "id": 42,
             "firstName": "priscillah",
+            "about": "I have an experience in house cleaning and child care for 3yrs",
             "area": "Nairobi",
             "services": [
                 "House Keeping",
@@ -1297,6 +1346,7 @@
         {
             "id": 41,
             "firstName": "Catherine",
+            "about": "I am reliable and trustworthy and willing to learn and adapt to the needs of the family I work with. I take pride in being respectful and professional at all times.",
             "area": "Nairobi",
             "services": [
                 "House Keeping",
@@ -1323,6 +1373,7 @@
         {
             "id": 40,
             "firstName": "salome",
+            "about": "I love Children , children haven't been such a bother because I have emotional intelligence on knowing children's needs and wants besides I have smaller siblings that I have taken care of",
             "area": "Thika",
             "services": [
                 "House Keeping",
@@ -1349,6 +1400,7 @@
         {
             "id": 39,
             "firstName": "Betty",
+            "about": "I am a boy mum. I have experience in being a day bug and a nanny. I am gentle and kind by nature. Kids love me and I relate with them very well.",
             "area": "Eldoret",
             "services": [
                 "House Keeping",
@@ -1375,6 +1427,7 @@
         {
             "id": 38,
             "firstName": "Annette",
+            "about": "I am a caring and dependable nanny with a Diploma in Nutrition and Dietetics and a strong background in childcare and health. My training has equipped me with valuable skills in preparing healthy meals, maintaining hygiene, and supporting children’s overall growth and…",
             "area": "Mombasa",
             "services": [
                 "House Keeping",
@@ -1403,6 +1456,7 @@
         {
             "id": 36,
             "firstName": "Beth",
+            "about": "am an experienced lady in nanny work and also elder care for 6 years .am hardworking,humbled patience and i really love my job .i respect people alot.",
             "area": "Nairobi",
             "services": [
                 "House Keeping",
@@ -1435,6 +1489,7 @@
         {
             "id": 34,
             "firstName": "cathy",
+            "about": "I'm self-drive and passionate about children open to work with or without supervision",
             "area": "Nairobi",
             "services": [
                 "House Keeping",
@@ -1460,6 +1515,7 @@
         {
             "id": 31,
             "firstName": "Sheila",
+            "about": "I am a compassionate Occupational Therapist experienced in elderly care, infant care, and child care. I help clients enhance independence, mobility, and daily living skills through personalized, holistic therapy. My approach supports developmental milestones in infants…",
             "area": "Nairobi",
             "services": [
                 "Childcare",
@@ -1487,6 +1543,7 @@
         {
             "id": 30,
             "firstName": "Tabitha",
+            "about": "I'm great with kids . I love toddlers",
             "area": "Nairobi",
             "services": [
                 "Childcare",
@@ -1511,6 +1568,7 @@
         {
             "id": 29,
             "firstName": "Esther",
+            "about": "I am a responsible and caring individual with 2 years of experience in general childcare. I enjoy creating a safe, joyful, and nurturing environment for children to grow and thrive. I’m patient, attentive, and committed to supporting both the emotional and physical well-being of…",
             "area": "Nairobi",
             "services": [
                 "House Keeping",
@@ -1539,6 +1597,7 @@
         {
             "id": 28,
             "firstName": "Jenniffer",
+            "about": "Hardworking and honest",
             "area": "Nairobi",
             "services": [
                 "House Keeping",
@@ -1565,6 +1624,7 @@
         {
             "id": 27,
             "firstName": "farnice",
+            "about": "I love taking care of kids alot and always get along with them very quickly..",
             "area": "Nairobi",
             "services": [
                 "House Keeping",
@@ -1591,6 +1651,7 @@
         {
             "id": 26,
             "firstName": "Lydiah",
+            "about": "I love working with children because: 1.am a mother I deal with children I have worked in daycare for 2 years I have experience with children of all ages and I can handle them well",
             "area": "Nairobi",
             "services": [
                 "House Keeping",
@@ -1618,6 +1679,7 @@
         {
             "id": 22,
             "firstName": "Lucy",
+            "about": "Am a mother of one and a sibling to many being the first born.I get to take care of children a lot.",
             "area": "Mombasa",
             "services": [
                 "Infant Care",
@@ -1652,6 +1714,7 @@
         {
             "id": 21,
             "firstName": "Beatrice",
+            "about": "I'm Beatrice Angoyi currently living in Nairobi and I'm a hardworking lady ready for any opportunity",
             "area": "Nairobi",
             "services": [
                 "Childcare",
@@ -1681,6 +1744,7 @@
         {
             "id": 20,
             "firstName": "Ivonne",
+            "about": "I have been looking after kids since I was 17 years old. I have taken care of a three month old baby till he turned four years old ... I love kids . I can also take care of children abled differently",
             "area": "Nairobi",
             "services": [
                 "Childcare",

@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-06-16 15:00:15",
+    "generated_at": "2026-06-17 03:00:24",
     "timezone": "Africa/Nairobi",
     "count": 63,
     "nannies": [
@@ -324,10 +324,10 @@
             "childcare": true,
             "eldercare": false,
             "ageBands": {
-                "infants": 0,
-                "toddlers": 0,
-                "schoolgoers": 0,
-                "teenagers": 0
+                "infants": 5,
+                "toddlers": 3,
+                "schoolgoers": 1,
+                "teenagers": 4
             },
             "rating": null
         },
@@ -351,10 +351,10 @@
             "childcare": true,
             "eldercare": false,
             "ageBands": {
-                "infants": 0,
-                "toddlers": 0,
-                "schoolgoers": 0,
-                "teenagers": 0
+                "infants": 5,
+                "toddlers": 5,
+                "schoolgoers": 5,
+                "teenagers": 1
             },
             "rating": null
         },
@@ -382,10 +382,10 @@
             "childcare": true,
             "eldercare": false,
             "ageBands": {
-                "infants": 0,
-                "toddlers": 0,
-                "schoolgoers": 0,
-                "teenagers": 0
+                "infants": 5,
+                "toddlers": 5,
+                "schoolgoers": 4,
+                "teenagers": 4
             },
             "rating": 5
         },
@@ -620,10 +620,10 @@
             "childcare": true,
             "eldercare": true,
             "ageBands": {
-                "infants": 0,
-                "toddlers": 0,
-                "schoolgoers": 0,
-                "teenagers": 0
+                "infants": 5,
+                "toddlers": 3,
+                "schoolgoers": 2,
+                "teenagers": 2
             },
             "rating": 4.8
         },

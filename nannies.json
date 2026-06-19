@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-06-19 03:00:25",
+    "generated_at": "2026-06-19 15:00:14",
     "timezone": "Africa/Nairobi",
     "count": 63,
     "nannies": [
@@ -1642,10 +1642,10 @@
             "childcare": true,
             "eldercare": false,
             "ageBands": {
-                "infants": 0,
-                "toddlers": 0,
-                "schoolgoers": 0,
-                "teenagers": 0
+                "infants": 1,
+                "toddlers": 1,
+                "schoolgoers": 5,
+                "teenagers": 5
             },
             "rating": 3.7
         },

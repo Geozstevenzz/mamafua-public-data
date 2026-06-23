@@ -1,8 +1,134 @@
 {
-    "generated_at": "2026-06-20 15:00:19",
+    "generated_at": "2026-06-23 15:00:16",
     "timezone": "Africa/Nairobi",
-    "count": 63,
+    "count": 67,
     "nannies": [
+        {
+            "id": 129,
+            "firstName": "Stacy",
+            "about": "my name is Stacy Kennedy, humble and very hard working I have 3years experience I love being around kids",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [
+                "Infant & Child CPR Certification",
+                "Basic Life Support (BLS) Training",
+                "Choking Rescue Techniques"
+            ],
+            "experienceYears": 3,
+            "englishLevel": "fluent",
+            "childcare": true,
+            "eldercare": true,
+            "ageBands": {
+                "infants": 5,
+                "toddlers": 5,
+                "schoolgoers": 5,
+                "teenagers": 1
+            },
+            "rating": null
+        },
+        {
+            "id": 128,
+            "firstName": "Elizabeth",
+            "about": "My name is Elizabeth, I have 5 years of house cleaning and dayburg experience. I am a hard-working, humble and a detail oriented type of person. Thank you for choosing me.",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Elder Care"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [
+                "Choking Rescue Techniques",
+                "Basic Life Support (BLS) Training"
+            ],
+            "experienceYears": 5,
+            "englishLevel": "intermediate",
+            "childcare": true,
+            "eldercare": true,
+            "ageBands": {
+                "infants": 2,
+                "toddlers": 5,
+                "schoolgoers": 5,
+                "teenagers": 5
+            },
+            "rating": null
+        },
+        {
+            "id": 127,
+            "firstName": "NANCY",
+            "about": "I'm a form 3 leave out .. I'm kind and I love my work",
+            "area": "Mtwapa",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Infant Care",
+                "Elder Care"
+            ],
+            "nannyType": [
+                "Day Nanny",
+                "Live-in Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 1,
+            "englishLevel": "",
+            "childcare": true,
+            "eldercare": true,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
+        {
+            "id": 126,
+            "firstName": "Harriet",
+            "about": "Reliable and detail-oriented. I offer fast, affordable laundry and ironing services with care, neatness, and respect for your clothes.",
+            "area": "Ngong",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Elder Care",
+                "Infant Care",
+                "Pet Care"
+            ],
+            "nannyType": [
+                "Live-in Nanny"
+            ],
+            "specialSkills": [
+                "Infant & Child CPR Certification",
+                "First Aid Certification",
+                "Fire Safety & Emergency Evacuation Training",
+                "Special Needs Childcare",
+                "Water Safety / Swim Supervision Training",
+                "Choking Rescue Techniques",
+                "Basic Life Support (BLS) Training"
+            ],
+            "experienceYears": 8,
+            "englishLevel": "fluent",
+            "childcare": true,
+            "eldercare": true,
+            "ageBands": {
+                "infants": 0,
+                "toddlers": 0,
+                "schoolgoers": 0,
+                "teenagers": 0
+            },
+            "rating": null
+        },
         {
             "id": 124,
             "firstName": "Lauryn",
@@ -268,10 +394,10 @@
             "childcare": true,
             "eldercare": true,
             "ageBands": {
-                "infants": 0,
-                "toddlers": 0,
-                "schoolgoers": 0,
-                "teenagers": 0
+                "infants": 1,
+                "toddlers": 1,
+                "schoolgoers": 1,
+                "teenagers": 1
             },
             "rating": null
         },
@@ -1587,10 +1713,10 @@
             "childcare": true,
             "eldercare": true,
             "ageBands": {
-                "infants": 0,
-                "toddlers": 0,
-                "schoolgoers": 0,
-                "teenagers": 0
+                "infants": 1,
+                "toddlers": 1,
+                "schoolgoers": 5,
+                "teenagers": 5
             },
             "rating": null
         },

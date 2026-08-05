@@ -1,8 +1,115 @@
 {
-    "generated_at": "2026-08-03 15:00:30",
+    "generated_at": "2026-08-05 03:00:29",
     "timezone": "Africa/Nairobi",
-    "count": 67,
+    "count": 69,
     "nannies": [
+        {
+            "id": 135,
+            "firstName": "betty",
+            "about": "I am a caring, patient, and trustworthy nanny with 4 years of experience caring for children of different ages. I enjoy helping children learn, play, and grow in a safe and loving environment. I am responsible, hardworking, and always ensure children are clean, happy, and well…",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Elder Care",
+                "Infant Care"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 4,
+            "englishLevel": "basic",
+            "childcare": true,
+            "eldercare": true,
+            "ageBands": {
+                "infants": 1,
+                "toddlers": 1,
+                "schoolgoers": 1,
+                "teenagers": 1
+            },
+            "rating": null
+        },
+        {
+            "id": 133,
+            "firstName": "Veronica",
+            "about": "I'm very nice to take the kids",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 3,
+            "englishLevel": "basic",
+            "childcare": true,
+            "eldercare": false,
+            "ageBands": {
+                "infants": 1,
+                "toddlers": 3,
+                "schoolgoers": 3,
+                "teenagers": 3
+            },
+            "rating": 5
+        },
+        {
+            "id": 132,
+            "firstName": "Susan",
+            "about": "I am of sound mind.I can handle children no matter the age and adult as well.",
+            "area": "Kiuu",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 5,
+            "englishLevel": "fluent",
+            "childcare": true,
+            "eldercare": true,
+            "ageBands": {
+                "infants": 1,
+                "toddlers": 4,
+                "schoolgoers": 5,
+                "teenagers": 3
+            },
+            "rating": null
+        },
+        {
+            "id": 130,
+            "firstName": "Lucy",
+            "about": "am God fearing woman interested in raising kids because they are innocent, curious and full of potential.I like teaching them to tie their shoes,do homework or share my patience and consistence which helps children feel safe which make them feel better",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Infant Care"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 3,
+            "englishLevel": "intermediate",
+            "childcare": true,
+            "eldercare": true,
+            "ageBands": {
+                "infants": 5,
+                "toddlers": 1,
+                "schoolgoers": 1,
+                "teenagers": 1
+            },
+            "rating": null
+        },
         {
             "id": 129,
             "firstName": "Stacy",
@@ -807,35 +914,6 @@
             "rating": null
         },
         {
-            "id": 85,
-            "firstName": "Nicole",
-            "about": "I'm excited to apply for the nanny position. With 10 years of experience caring for children, I've developed a nurturing approach that kids love. I'm great at engaging activities, meal prep, and keeping little ones safe. I'm reliable, trustworthy, and love making families' lives…",
-            "area": "Nairobi",
-            "services": [
-                "House Keeping",
-                "Cooking",
-                "Childcare",
-                "Infant Care",
-                "Elder Care"
-            ],
-            "nannyType": [
-                "Day Nanny",
-                "Live-in Nanny"
-            ],
-            "specialSkills": [],
-            "experienceYears": 10,
-            "englishLevel": "",
-            "childcare": true,
-            "eldercare": true,
-            "ageBands": {
-                "infants": 0,
-                "toddlers": 0,
-                "schoolgoers": 0,
-                "teenagers": 0
-            },
-            "rating": null
-        },
-        {
             "id": 84,
             "firstName": "Graciella",
             "about": "I am a well driven employee who is ready to work I can work with small to big children because I have good balance with work and can report anytime",
@@ -1293,34 +1371,6 @@
             "specialSkills": [
                 "Infant & Child CPR Certification"
             ],
-            "experienceYears": 3,
-            "englishLevel": "fluent",
-            "childcare": true,
-            "eldercare": false,
-            "ageBands": {
-                "infants": 0,
-                "toddlers": 0,
-                "schoolgoers": 0,
-                "teenagers": 0
-            },
-            "rating": null
-        },
-        {
-            "id": 49,
-            "firstName": "Nicole",
-            "about": "am a hardworking and well driven person. I am very good with children all ages and can be playfull with them. I can work in any house with no supervision",
-            "area": "Nairobi",
-            "services": [
-                "House Keeping",
-                "Cooking",
-                "Childcare",
-                "Infant Care",
-                "Pet Care"
-            ],
-            "nannyType": [
-                "Day Nanny"
-            ],
-            "specialSkills": [],
             "experienceYears": 3,
             "englishLevel": "fluent",
             "childcare": true,

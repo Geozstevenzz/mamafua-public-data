@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-08-05 03:00:29",
+    "generated_at": "2026-08-06 15:00:20",
     "timezone": "Africa/Nairobi",
     "count": 69,
     "nannies": [
@@ -1872,14 +1872,13 @@
                 "Cooking"
             ],
             "nannyType": [
-                "Day Nanny",
-                "Live-in Nanny"
+                "Day Nanny"
             ],
             "specialSkills": [
                 "Special Needs Childcare"
             ],
             "experienceYears": 3,
-            "englishLevel": "basic",
+            "englishLevel": "intermediate",
             "childcare": true,
             "eldercare": false,
             "ageBands": {

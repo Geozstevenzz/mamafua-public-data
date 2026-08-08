@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-08-06 15:00:20",
+    "generated_at": "2026-08-08 15:00:15",
     "timezone": "Africa/Nairobi",
     "count": 69,
     "nannies": [
@@ -288,7 +288,7 @@
                 "schoolgoers": 1,
                 "teenagers": 1
             },
-            "rating": null
+            "rating": 5
         },
         {
             "id": 71,

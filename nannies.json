@@ -1,7 +1,7 @@
 {
-    "generated_at": "2026-08-10 15:00:19",
+    "generated_at": "2026-08-11 03:00:28",
     "timezone": "Africa/Nairobi",
-    "count": 68,
+    "count": 69,
     "nannies": [
         {
             "id": 135,
@@ -1713,6 +1713,35 @@
                 "teenagers": 0
             },
             "rating": null
+        },
+        {
+            "id": 29,
+            "firstName": "Esther",
+            "about": "I am a responsible and caring individual with 2 years of experience in general childcare. I enjoy creating a safe, joyful, and nurturing environment for children to grow and thrive. I’m patient, attentive, and committed to supporting both the emotional and physical well-being of…",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare",
+                "Pet Care",
+                "Elder Care"
+            ],
+            "nannyType": [
+                "Day Nanny",
+                "Live-in Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 2,
+            "englishLevel": "fluent",
+            "childcare": true,
+            "eldercare": true,
+            "ageBands": {
+                "infants": 1,
+                "toddlers": 5,
+                "schoolgoers": 5,
+                "teenagers": 5
+            },
+            "rating": 4.1
         },
         {
             "id": 28,

@@ -1,8 +1,60 @@
 {
-    "generated_at": "2026-08-11 03:00:28",
+    "generated_at": "2026-08-14 15:00:15",
     "timezone": "Africa/Nairobi",
-    "count": 69,
+    "count": 71,
     "nannies": [
+        {
+            "id": 138,
+            "firstName": "Moureen",
+            "about": "As a mom, I have learnt to be patient and gentle with children as they explore and learn their surroundings. I also have a bachelor's degree in Paramedicine, which means I can safely attend to your child during any emergency in your absence, such as chocking and drowning before…",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Childcare"
+            ],
+            "nannyType": [
+                "Day Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 0,
+            "englishLevel": "basic",
+            "childcare": true,
+            "eldercare": false,
+            "ageBands": {
+                "infants": 4,
+                "toddlers": 4,
+                "schoolgoers": 2,
+                "teenagers": 1
+            },
+            "rating": null
+        },
+        {
+            "id": 137,
+            "firstName": "Jessica",
+            "about": "I an electrical student with also a nanny background of 3 years and I love taking care of children because they are innocent and vulnerable human beings and most people tend to ignore their cries while I choose to listen to them",
+            "area": "Nairobi",
+            "services": [
+                "House Keeping",
+                "Cooking",
+                "Childcare"
+            ],
+            "nannyType": [
+                "Day Nanny",
+                "Live-in Nanny"
+            ],
+            "specialSkills": [],
+            "experienceYears": 3,
+            "englishLevel": "fluent",
+            "childcare": false,
+            "eldercare": false,
+            "ageBands": {
+                "infants": 5,
+                "toddlers": 5,
+                "schoolgoers": 4,
+                "teenagers": 2
+            },
+            "rating": null
+        },
         {
             "id": 135,
             "firstName": "betty",
@@ -1741,7 +1793,7 @@
                 "schoolgoers": 5,
                 "teenagers": 5
             },
-            "rating": 4.1
+            "rating": 4.2
         },
         {
             "id": 28,

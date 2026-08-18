@@ -1,7 +1,7 @@
 {
-    "generated_at": "2026-08-14 15:00:15",
+    "generated_at": "2026-08-18 15:00:19",
     "timezone": "Africa/Nairobi",
-    "count": 71,
+    "count": 70,
     "nannies": [
         {
             "id": 138,
@@ -422,33 +422,6 @@
                 "toddlers": 0,
                 "schoolgoers": 0,
                 "teenagers": 0
-            },
-            "rating": null
-        },
-        {
-            "id": 118,
-            "firstName": "sara",
-            "about": "self reliable and hardworking",
-            "area": "Nairobi",
-            "services": [
-                "House Keeping",
-                "Cooking",
-                "Childcare",
-                "Elder Care"
-            ],
-            "nannyType": [
-                "Day Nanny"
-            ],
-            "specialSkills": [],
-            "experienceYears": 2,
-            "englishLevel": "basic",
-            "childcare": true,
-            "eldercare": true,
-            "ageBands": {
-                "infants": 4,
-                "toddlers": 2,
-                "schoolgoers": 2,
-                "teenagers": 2
             },
             "rating": null
         },

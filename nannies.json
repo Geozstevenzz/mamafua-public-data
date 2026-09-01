@@ -1,7 +1,7 @@
 {
-    "generated_at": "2026-08-18 15:00:19",
+    "generated_at": "2026-09-01 15:00:31",
     "timezone": "Africa/Nairobi",
-    "count": 70,
+    "count": 69,
     "nannies": [
         {
             "id": 138,
@@ -315,32 +315,6 @@
                 "teenagers": 5
             },
             "rating": null
-        },
-        {
-            "id": 125,
-            "firstName": "Emmaculate",
-            "about": "am 23 years old and l can be a good nanny",
-            "area": "Nairobi",
-            "services": [
-                "House Keeping",
-                "Cooking",
-                "Childcare"
-            ],
-            "nannyType": [
-                "Live-in Nanny"
-            ],
-            "specialSkills": [],
-            "experienceYears": 3,
-            "englishLevel": "basic",
-            "childcare": true,
-            "eldercare": false,
-            "ageBands": {
-                "infants": 1,
-                "toddlers": 1,
-                "schoolgoers": 1,
-                "teenagers": 1
-            },
-            "rating": 5
         },
         {
             "id": 71,

@@ -1,7 +1,7 @@
 {
-    "generated_at": "2026-09-01 15:00:31",
+    "generated_at": "2026-09-14 15:00:12",
     "timezone": "Africa/Nairobi",
-    "count": 69,
+    "count": 68,
     "nannies": [
         {
             "id": 138,
@@ -480,34 +480,6 @@
             "rating": null
         },
         {
-            "id": 114,
-            "firstName": "Jane",
-            "about": "I am naturally patient, loving, and responsible with children. Being a mother to a 6-year-old son has given me real experience in childcare, including feeding, bathing, helping with routines, and creating a safe and supportive environment for children.",
-            "area": "Nairobi",
-            "services": [
-                "House Keeping",
-                "Cooking",
-                "Childcare",
-                "Elder Care"
-            ],
-            "nannyType": [
-                "Live-in Nanny",
-                "Day Nanny"
-            ],
-            "specialSkills": [],
-            "experienceYears": 6,
-            "englishLevel": "basic",
-            "childcare": true,
-            "eldercare": true,
-            "ageBands": {
-                "infants": 1,
-                "toddlers": 1,
-                "schoolgoers": 1,
-                "teenagers": 1
-            },
-            "rating": null
-        },
-        {
             "id": 113,
             "firstName": "charity",
             "about": "I love doing my work with me there are no regrets am the best",
@@ -594,7 +566,7 @@
             "id": 109,
             "firstName": "Mumbi",
             "about": "Proactive and organized Nanny, with a decade of experience supporting busy families. I offer a mix of high-quality childcare, household management, light cleaning, and meal preparation. Expert in managing daily routines, school transport, and scheduling, with a focus on safety…",
-            "area": "Nairobi",
+            "area": "Mombasa",
             "services": [
                 "House Keeping",
                 "Cooking",
